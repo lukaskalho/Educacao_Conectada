@@ -18,10 +18,15 @@
 <body>
 	<header class="header-page">
 		<class class="container">
-			<img src="essets/pix/logo.png" />
-			<div class="box-logos">
-				<img src="essets/pix/prefeitura.jpeg" />
-				<img src="essets/pix/semed.jpg" />
+			<div class="row">
+				<div class="col-md-4 logo">
+					<img src="essets/pix/logo.png" />
+				</div>
+				<div class="col-md-4"></div>
+				<div class="col-md-4 logo box-logos">
+					<img src="essets/pix/prefeitura.jpeg" />
+					<img src="essets/pix/semed.jpg" />
+				</div>
 			</div>
 		</class>
 	</header>
