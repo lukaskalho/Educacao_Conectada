@@ -15,8 +15,7 @@
 	<script type="text/javascript" src="essets/js/jquery-3.3.1.slim.min.js"></script>
 	<script type="text/javascript" src="essets/js/bootstrap.js"></script>
 </head>
-<body>
-	<header class="header-page">
+	<body>
 		<header class="header-page">
 			<div class="container">
 				<div class="row">
