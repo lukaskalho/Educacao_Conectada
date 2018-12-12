@@ -1,0 +1,66 @@
+.content h2,
+.content p
+{
+	padding: 0px;
+}
+
+.content p
+{
+	text-align: justify;
+}
+
+.box-banner
+{
+	min-height: 400px;
+	margin-top: 5px;
+	text-align: center;
+	line-height: 400px;
+}
+
+.box-avisos
+{
+	border-radius: 5px 0 0 5px;
+	border:0.5px solid #ddd;
+	background-color: #fbfbfb;
+	margin-top: 5px;
+	padding: 20px;
+	min-height: 300px;
+}
+
+.box-titulo-destaque
+{
+	background-color: #00538d;
+	color: #fff;
+	margin-top: 5px;
+	padding: 10px;
+}
+
+.card
+{
+	margin-top: 5px;
+}
+
+.card-footer
+{
+	background-color: #00538d;
+}
+
+.card-footer a
+{
+	color: #fff;
+}
+
+.box-card-img
+{
+	padding: 10px;
+}
+
+.box-card-img img
+{
+	width: 100%;
+}
+
+.car-box-content
+{
+	padding: 10px;
+}

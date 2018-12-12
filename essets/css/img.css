@@ -1,0 +1,14 @@
+.box-logos
+{
+	float: right;
+}
+
+.box-logos img
+{
+	height: 80px;
+}
+
+.responsive-img
+{
+	width: 100%;
+}

@@ -1,0 +1,25 @@
+.header-page
+{
+	min-height: 130px;
+	background-image: url("../pix/bg_banner.png");
+	padding: 20px;
+}
+
+.bg-green
+{
+	background-color: #75c044;
+	padding: 10px;
+}
+
+.bg-green a{
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	transition: .5s;
+	font-size: 16px;
+}
+
+.bg-green a:hover
+{
+	background-color: #75a033;
+}

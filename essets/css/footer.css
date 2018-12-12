@@ -1,0 +1,12 @@
+.footer-page
+{
+	margin-top: 20px;
+	border-top:1px solid #75c044;
+}
+
+.footer-page p
+{
+	text-align: center;
+	color: #75c044;
+	padding: 5px;
+}
