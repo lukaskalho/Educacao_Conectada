@@ -17,13 +17,20 @@
 </head>
 <body>
 	<header class="header-page">
-		<class class="container">
-			<img src="essets/pix/logo.png" />
-			<div class="box-logos">
-				<img src="essets/pix/prefeitura.jpeg" />
-				<img src="essets/pix/semed.jpg" />
+		<header class="header-page">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<img src="essets/pix/logo.png" />
+					</div>
+					<div class="col-md-4">
+					</div>
+					<div class="col-md-4 box-logos">
+						<img src="essets/pix/prefeitura.jpeg" />
+						<img src="essets/pix/semed.jpg" />
+					</div>
+				</div>
 			</div>
-		</class>
 	</header>
 	<nav class="navbar navbar-expand-md bg-green">
 		<ul class="nav">
